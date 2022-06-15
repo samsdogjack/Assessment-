@@ -1,5 +1,23 @@
 /* add code here to make your image 300px square */
 
+
+
 /* add code here to change the color and font family of your name/title */
+h1 {
+    color: rgb(18, 42, 177);
+  }
+
+  h2 {
+    color:  bisque}
+
+body {
+    background-color: rgb(228, 200, 15);
+}
 
 /* Bonus: change the color of your list elements */
+
+
+
+li {
+    color: rgb(184, 43, 43);
+}
